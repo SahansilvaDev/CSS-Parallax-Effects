@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 @import url(https://fonts.googleapis.com/css?family=Roboto:100);
 html, body {
   width: 100%;
@@ -108,6 +109,8 @@ h2 {
   transform: translateZ(0.2px) scale(0.8);
   z-index: 200;
 =======
+=======
+>>>>>>> c9548dbaf614a57a347b5c2940db26e9a1e565db
 @import url(https://fonts.googleapis.com/css?family=Roboto:100);
 html, body {
   width: 100%;
@@ -216,5 +219,8 @@ h2 {
   font-size: 3em;
   transform: translateZ(0.2px) scale(0.8);
   z-index: 200;
+<<<<<<< HEAD
 >>>>>>> c9548db (SECOND EDITION commit)
+=======
+>>>>>>> c9548dbaf614a57a347b5c2940db26e9a1e565db
 }

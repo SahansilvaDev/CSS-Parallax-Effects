@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 window.onload = function () {
   var wrapper = document.querySelector("#wrapper"),
     layerOne = document.querySelector("#layer-1"),
@@ -36,6 +37,8 @@ window.onload = function () {
   });
 };
 =======
+=======
+>>>>>>> c9548dbaf614a57a347b5c2940db26e9a1e565db
 window.onload = function () {
   var wrapper = document.querySelector("#wrapper"),
     layerOne = document.querySelector("#layer-1"),
@@ -72,4 +75,7 @@ window.onload = function () {
       "%)";
   });
 };
+<<<<<<< HEAD
 >>>>>>> c9548db (SECOND EDITION commit)
+=======
+>>>>>>> c9548dbaf614a57a347b5c2940db26e9a1e565db

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 @import 'https://fonts.googleapis.com/css?family=Sintony';
 * {
   box-sizing: border-box;
@@ -154,6 +155,8 @@ header {
   height: 10px;
   background: linear-gradient(141deg, #48ded4 0%, #a026bf 51%, #e82c75 75%);
 =======
+=======
+>>>>>>> c9548dbaf614a57a347b5c2940db26e9a1e565db
 @import 'https://fonts.googleapis.com/css?family=Sintony';
 * {
   box-sizing: border-box;
@@ -308,5 +311,8 @@ header {
   z-index: auto;
   height: 10px;
   background: linear-gradient(141deg, #48ded4 0%, #a026bf 51%, #e82c75 75%);
+<<<<<<< HEAD
 >>>>>>> c9548db (SECOND EDITION commit)
+=======
+>>>>>>> c9548dbaf614a57a347b5c2940db26e9a1e565db
 }

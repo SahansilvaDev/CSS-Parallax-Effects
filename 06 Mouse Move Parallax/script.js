@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 (function () {
   // Add event listener
   document.addEventListener("mousemove", parallax);
@@ -24,6 +25,8 @@
   }
 })();
 =======
+=======
+>>>>>>> c9548dbaf614a57a347b5c2940db26e9a1e565db
 (function () {
   // Add event listener
   document.addEventListener("mousemove", parallax);
@@ -48,4 +51,7 @@
     elem.style.backgroundPosition = x;
   }
 })();
+<<<<<<< HEAD
 >>>>>>> c9548db (SECOND EDITION commit)
+=======
+>>>>>>> c9548dbaf614a57a347b5c2940db26e9a1e565db

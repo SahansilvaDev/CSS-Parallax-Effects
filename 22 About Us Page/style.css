@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,400italic);
 .product-navbar {
   height: 40px;
@@ -248,6 +249,8 @@
   padding-left: 5px;
   color: #676a6c;
 =======
+=======
+>>>>>>> c9548dbaf614a57a347b5c2940db26e9a1e565db
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,400italic);
 .product-navbar {
   height: 40px;
@@ -496,5 +499,8 @@
   line-height: 25px;
   padding-left: 5px;
   color: #676a6c;
+<<<<<<< HEAD
 >>>>>>> c9548db (SECOND EDITION commit)
+=======
+>>>>>>> c9548dbaf614a57a347b5c2940db26e9a1e565db
 }

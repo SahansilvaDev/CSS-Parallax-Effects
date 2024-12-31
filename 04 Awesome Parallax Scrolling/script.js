@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 // for heading
 
 $(window).scroll(function () {
@@ -54,6 +55,8 @@ $(window).scroll(function () {
   });
   */
 =======
+=======
+>>>>>>> c9548dbaf614a57a347b5c2940db26e9a1e565db
 // for heading
 
 $(window).scroll(function () {
@@ -108,5 +111,8 @@ $(window).scroll(function () {
     });
   });
   */
+<<<<<<< HEAD
 >>>>>>> c9548db (SECOND EDITION commit)
+=======
+>>>>>>> c9548dbaf614a57a347b5c2940db26e9a1e565db
   

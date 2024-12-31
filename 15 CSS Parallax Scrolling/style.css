@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 html,
 body {
   margin: 0;
@@ -153,6 +154,8 @@ a:active {
   opacity: 0.5;
   text-decoration: none;
 =======
+=======
+>>>>>>> c9548dbaf614a57a347b5c2940db26e9a1e565db
 html,
 body {
   margin: 0;
@@ -306,5 +309,8 @@ a:active {
 .url-normal {
   opacity: 0.5;
   text-decoration: none;
+<<<<<<< HEAD
 >>>>>>> c9548db (SECOND EDITION commit)
+=======
+>>>>>>> c9548dbaf614a57a347b5c2940db26e9a1e565db
 }

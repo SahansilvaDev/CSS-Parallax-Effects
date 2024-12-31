@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800");
 html, body {
   height: 100%;
@@ -162,6 +163,8 @@ h3 {
 .twitter__icon {
   height: 30px;
 =======
+=======
+>>>>>>> c9548dbaf614a57a347b5c2940db26e9a1e565db
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800");
 html, body {
   height: 100%;
@@ -324,5 +327,8 @@ h3 {
 
 .twitter__icon {
   height: 30px;
+<<<<<<< HEAD
 >>>>>>> c9548db (SECOND EDITION commit)
+=======
+>>>>>>> c9548dbaf614a57a347b5c2940db26e9a1e565db
 }

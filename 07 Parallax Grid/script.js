@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /*
 
 IF YOU'RE ON A MOBILE PHONE, TRY VIEWING THIS PEN AT http://portraits.ryankbrown.com/self/ AND TILTING YOU'RE DEVICE! UNFORTUNATELY CODEPEN DOESN'T SEEM TO SUPPORT DEVICE TILT.
@@ -316,6 +317,8 @@ setTimeout(function () {
 }, 1000);
 getSizes();
 =======
+=======
+>>>>>>> c9548dbaf614a57a347b5c2940db26e9a1e565db
 /*
 
 IF YOU'RE ON A MOBILE PHONE, TRY VIEWING THIS PEN AT http://portraits.ryankbrown.com/self/ AND TILTING YOU'RE DEVICE! UNFORTUNATELY CODEPEN DOESN'T SEEM TO SUPPORT DEVICE TILT.
@@ -632,4 +635,7 @@ setTimeout(function () {
 }, 1000);
 }, 1000);
 getSizes();
+<<<<<<< HEAD
 >>>>>>> c9548db (SECOND EDITION commit)
+=======
+>>>>>>> c9548dbaf614a57a347b5c2940db26e9a1e565db

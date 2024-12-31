@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 (function ($) {
   "use strict";
@@ -106,6 +107,8 @@
   });
 })(jQuery);
 =======
+=======
+>>>>>>> c9548dbaf614a57a347b5c2940db26e9a1e565db
 
 (function ($) {
   "use strict";
@@ -212,4 +215,7 @@
     $(".case-study-name:nth-child(1)").trigger("mouseenter");
   });
 })(jQuery);
+<<<<<<< HEAD
 >>>>>>> c9548db (SECOND EDITION commit)
+=======
+>>>>>>> c9548dbaf614a57a347b5c2940db26e9a1e565db

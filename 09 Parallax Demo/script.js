@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 (function () {
     $(function () {
       /*  Globals
@@ -515,6 +516,8 @@
     });
   }.call(this));
 =======
+=======
+>>>>>>> c9548dbaf614a57a347b5c2940db26e9a1e565db
 (function () {
     $(function () {
       /*  Globals
@@ -1030,5 +1033,8 @@
       init();
     });
   }.call(this));
+<<<<<<< HEAD
 >>>>>>> c9548db (SECOND EDITION commit)
+=======
+>>>>>>> c9548dbaf614a57a347b5c2940db26e9a1e565db
   
