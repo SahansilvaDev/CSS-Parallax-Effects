@@ -1,0 +1,106 @@
+.wrapper {
+    display:block;
+    margin: 20rem 40rem 10rem 10rem;
+}
+
+.wrapper .segment {
+    padding: .25rem
+}
+
+.shareLink {
+    display: block;
+    height: 100%
+}
+
+.card {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    perspective: 2500px;
+    height: 100%
+}
+
+.wrapper_all {
+    transition: all .5s;
+    position: absolute;
+    width: 100%;
+    z-index: -1;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    pointer-events: none
+}
+
+.wrapper_all:before,.wrapper_all:after {
+    content: "";
+    opacity: 0;
+    width: 100%;
+    height: 80px;
+    transition: all .5s;
+    position: absolute;
+    left: 0
+}
+
+.wrapper_all:before {
+    top: 0;
+    height: 100%;
+    background-image: linear-gradient(to top,transparent 46%,rgba(12,13,19,.5) 68%,rgb(12,13,19) 97%)
+}
+
+.wrapper_all:after {
+    bottom: 0;
+    opacity: 1;
+    background-image: linear-gradient(to bottom,transparent 46%,rgba(12,13,19,.5) 68%,rgb(12,13,19) 97%)
+}
+
+.wrapper_all span,.coverImage {
+    width: 100%;
+    height: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+    pointer-events: none
+}
+
+.logotitle {
+    width: 70%;
+    transition: transform .5s;
+    pointer-events: none;
+    margin-bottom: 1rem
+}
+
+.allocateBox {
+    width: 100%;
+    opacity: 0;
+    transition: all .5s;
+    position: absolute;
+    z-index: -1;
+    pointer-events: none
+}
+
+.card:hover .wrapper_all {
+    transform: perspective(2000px) translateY(0) rotateX(25deg) translateZ(0);
+    box-shadow: 2px 35px 32px -8px #000000bf;
+    -webkit-box-shadow: 2px 35px 32px -8px rgba(0,0,0,.75);
+    -moz-box-shadow: 2px 35px 32px -8px rgba(0,0,0,.75);
+    filter: blur(3px) grayscale(1)
+}
+
+.card:hover .wrapper_all:before,.card:hover .wrapper_all:after {
+    opacity: 1
+}
+
+.card:hover .wrapper_all:after {
+    height: 120px
+}
+
+.card:hover .logotitle {
+    transform: translate3d(0,-50px,100px);
+    filter: drop-shadow(2px 4px 20px black)
+}
+
+.card:hover .allocateBox {
+    opacity: 1;
+    transform: translate3d(0,-5%,100px)
+}
